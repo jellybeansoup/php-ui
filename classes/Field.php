@@ -3,7 +3,7 @@
   * MySQL library
   */
 
-	namespace Forms;
+	namespace UI;
 
  /**
   * Build, render and validate forms as a series of objects.

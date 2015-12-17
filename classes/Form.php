@@ -3,7 +3,7 @@
   * MySQL library
   */
 
-	namespace Forms;
+	namespace UI;
 
 	use \Framework\App\Request;
 

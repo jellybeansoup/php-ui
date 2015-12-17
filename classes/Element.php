@@ -8,7 +8,7 @@
   * @license FreeBSD
   */
 
-	namespace Forms;
+	namespace UI;
 
  /**
   * Class Manager
